@@ -24,5 +24,4 @@ else
         echo "false"
 fi
 
-
 } 2> errors.log
